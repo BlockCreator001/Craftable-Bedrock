@@ -32,5 +32,4 @@ public class CraftableBedrock
         LOGGER.info("HELLO FROM PREINIT");
         LOGGER.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
     }
-
 }
